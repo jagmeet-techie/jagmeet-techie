@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jagmeet-techie
+- 👋 Hi, I’m @jagmeet ingh
 - 👀 I’m interested in developing softwares and websites.
 - 🌱 I’m currently learning web development and app development
 - 💞️ I’m looking to collaborate on working on different projects of web development.

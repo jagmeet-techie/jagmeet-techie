@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @jagmeet Singh
-- 👀 I’m interested in developing softwares and websites.
-- 🌱 I’m currently learning web development and app development
-- 💞️ I’m looking to collaborate on working on different projects of web development.
-- 📫 How to reach me - email me @js0818135@gmail.com
+-  Engineer | Programmer | Web Developer | Data Science and Machine Learning Enthusiastic
 -
-- ⚡ Fun fact: I am learning so many things simultaneously as i love to study.
+- ⚡ Fun fact: I Love learning New things and Working toward becoming best version of me Everyday.
 
 <!---
 jagmeet-techie/jagmeet-techie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

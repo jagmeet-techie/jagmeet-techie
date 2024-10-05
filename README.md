@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jagmeet Singh
 -  Engineer | Programmer | Web Developer | Data Science and Machine Learning Enthusiastic
--
 - ⚡ Fun fact: I Love learning New things and Working toward becoming best version of me Everyday.
 
 <!---
